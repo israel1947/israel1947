@@ -38,6 +38,10 @@ I have two 3 years of experience as a Front Developer. I started as a Graphic De
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/israel1947"><img src="https://activity-graph.herokuapp.com/graph?username=israel1947&bg_color=1c1917&color=ffffff&line=64748b&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/israel1947" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel1947&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 

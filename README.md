@@ -8,7 +8,7 @@ I have two 3 years of experience as a Front Developer. I started as a Graphic De
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [israeldavidsdvsf@gmail.com](mailto:israeldavidsdvsf@gmail.com)
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning Python and Django
 
 ### Skills
 

@@ -8,7 +8,7 @@ Front-End Developer and Self-taught Graphic Designer and in constant learning. S
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [israeldavidsdvsf@gmail.com](mailto:israeldavidsdvsf@gmail.com)
-* 🧠  I'm learning Python and Django
+* 🧠  I'm learning React
 
 ### Skills
 

@@ -4,7 +4,7 @@ Hi 👋 My name is Israel Polo
 Full-Stack Developer
 -------------------
 
-Front-End Developer and Self-taught Graphic Designer and in constant learning. Suitable to work with new technologies even knowing that to acquire said knowledge required of a lot of patience and dedication. I started as a Graphic Designer. I always felt attracted to the world of technology and that's why after finding my first job as a UI designer and working together with the Front team, I decided to extend my knowledge and that's when I decided that mine was to be a frontend developer. Since I could combine the two things I like which is design and programming.
+Full-Stack Developer and Self-taught Graphic Designer and in constant learning. Suitable to work with new technologies even knowing that to acquire said knowledge required of a lot of patience and dedication. I started as a Graphic Designer. I always felt attracted to the world of technology and that's why after finding my first job as a UI designer and working together with the Front team, I decided to extend my knowledge and that's when I decided that mine was to be a frontend developer. Since I could combine the two things I like which is design and programming.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [israeldavidsdvsf@gmail.com](mailto:israeldavidsdvsf@gmail.com)

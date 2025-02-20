@@ -8,7 +8,6 @@ Full-Stack Developer and Self-taught Graphic Designer and in constant learning. 
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [israeldavidsdvsf@gmail.com](mailto:israeldavidsdvsf@gmail.com)
-* 🧠  I'm learning Nest.JS
 
 ### Skills
 

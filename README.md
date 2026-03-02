@@ -8,7 +8,7 @@ Full-Stack Developer and Self-taught Graphic Designer and in constant learning. 
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [israeldavidsdvsf@gmail.com](mailto:israeldavidsdvsf@gmail.com)
-* 🌐 https://www.israelpolo.dev/
+* 🌐  https://israel-polo.vercel.app/
 
 ### Skills
 
